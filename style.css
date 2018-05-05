@@ -1,0 +1,615 @@
+body {
+    position: relative;
+    background: url(https://78.media.tumblr.com/6454dd5091d6dade58bd3367786f8cf9/tumblr_inline_p7uh0syYwH1vow3zq_1280.png) no-repeat center center ;
+    background-size: cover;
+    max-width: 100vw;
+    margin: 0 auto;
+    background-color: #44516f;
+    
+    
+}
+
+background {
+    
+    
+}
+
+.hero{
+       text-align: left;
+       max-width: 100vw;
+    
+}
+
+
+.takahe_head {
+    width: 100%;
+    height: 100%;
+}
+
+.content {
+    
+    top: 0;
+    text-align: center;
+    margin-bottom: 30vh;
+    
+}
+
+.content h1{
+    margin-top: 2em;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color: #44516f;
+    
+}
+
+.author {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: -1em;
+}
+
+.content h4{
+    font-family: 'Sue Ellen Francisco', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: #44516f;
+}
+
+.content h5  {
+    margin-top: -35px;
+    font-family: 'Sue Ellen Francisco', cursive;
+    text-align: center;
+    font-size: 10em;
+    color: #44516f;
+}
+
+.introduction {
+    text-align: left;
+    margin-top: 20em;
+
+}
+
+.new {
+    
+    margin-top: -45px;
+}
+
+.introduction {
+    background-color: #44516f;
+    width: 100vw;
+}
+
+.introduction p {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.text {
+    padding-top: 1em;
+    margin: 20em 20em 0em 20em;
+    color: white;
+}
+
+
+
+.futile_wings {
+    text-align: left;
+
+}
+
+
+.futile_wings {
+    background-color: #44516f;
+    width: 100vw;
+}
+
+.futile_wings p {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.futile_wings h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: .8em;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.6em;
+    font-size: 3em;
+    color: skyblue;
+    
+}
+
+.futile_img{
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    
+}
+
+
+.section_two {
+    margin-top: 5em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 5em;
+    color: white;
+}
+
+.line{
+    margin-bottom: 5em;
+}
+
+
+
+.quote {
+    text-align: left;
+
+}
+
+.quote {
+    background-color: #ffffff;
+    width: 100vw;
+}
+
+.quote p {
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    margin-top: 0.5em;
+    margin-bottom: -0.3em;
+    
+}
+
+.quote h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 2em;
+    margin-top: 0.5em;
+    margin-bottom: -0.3em;
+    
+}
+
+
+.section_quote {
+    margin-top: -2em;
+    margin-left: 20em;
+    margin-right: 20em;
+    color: #44516f;
+}
+
+.enemies{
+    background: url(https://78.media.tumblr.com/6454dd5091d6dade58bd3367786f8cf9/tumblr_inline_p7uh0syYwH1vow3zq_1280.png) no-repeat center center ;
+    background-size: cover;
+    max-width: 100vw;
+    margin: 0 auto;
+}
+.section_three  {
+    
+    margin-top: -10em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 5em;
+    color: #44516f;
+}
+
+.section_three p {
+    font-family: 'Quicksand', sans-serif;
+    padding-top: 7em;
+    margin-top: 5em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+
+
+
+
+.table_section  {
+    margin-top: 3em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 5em;
+    color: #44516f;
+    line-height: 2em;
+    
+}
+
+
+
+.table_section h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: 1.1em;
+    margin-right: 1em;
+    line-height: 2em;
+    font-size: 3em;
+    text-align: center;
+    
+}
+.table {
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    margin: auto;
+    display: inline-table;
+    margin-left: 29em;
+    margin-top: -1em;
+    margin-bottom: 5em;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    color: #44516f;
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    color: #44516f;
+}
+
+.table caption {
+    text-align: left;
+    margin: auto;
+    display: inline-table;
+    color: #44516f;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.13em;
+}
+
+
+.takahe_1{
+    float: left;
+    margin-left: 2.4em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+}
+
+.takahe_2{
+    float: right;
+    margin-right: 2.4em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.vanished_birds{
+    
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 2em;
+    color: #ffffff;
+}
+
+.vanished_birds p {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.vanished_birds h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 3em;
+    margin-top: 1em;
+    margin-bottom: 0em;
+    color: skyblue;
+    
+}
+
+.image_gap p {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 18em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+
+
+
+
+.map{
+    
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    color: #ffffff;
+}
+
+
+
+.hori_line{
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.thirty_year{
+    
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 2em;
+    color: #ffffff;
+}
+
+.thirty_year p {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.thirty_year h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 3em;
+    color: skyblue;
+    
+    
+}
+
+.pipe{
+    margin-bottom: 2em;
+    margin-top: 2em;
+    margin-left: 2.5em;
+    width: 45em;
+    height: auto;
+}
+
+.quest{
+    margin-bottom: 5em;
+}
+   
+
+.severe_winters{
+    
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: -8em;
+    color: #ffffff;
+}
+
+.severe_winters p {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.severe_winters h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 3em;
+    margin-top: 1em;
+    color: skyblue;
+    
+    
+}
+
+.sev_winters {
+    margin-left: 2em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    
+}
+
+
+
+
+.new_zealand{
+    
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 2em;
+    color: #ffffff;
+}
+
+.new_zealand{
+    
+    background: url(https://78.media.tumblr.com/787b9fe1a013c4ff69bc8ee04354b6ea/tumblr_inline_p803oekui41vow3zq_540.png) no-repeat center center ;
+    background-size: cover;
+    max-width: 100vw;
+    margin: 0 auto;
+}
+
+.zealand  {
+    
+    margin-top: 0em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 5em;
+    color: #44516f;
+}
+
+.zealand h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    padding-top: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 3em;
+    margin-top: 2em;
+    
+    
+}
+
+
+
+.zealand p {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.para_four {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    padding-bottom: 4em;
+    
+}
+
+
+.facts{
+    
+    background: url(https://78.media.tumblr.com/79b28d3f24b38bc7b32938ba9a2543dd/tumblr_inline_p804huRdy71vow3zq_540.png) no-repeat center center ;
+    background-size: cover;
+    max-width: 100vw;
+    max-height: 100vh;
+    margin: 0 auto;
+}
+
+.fast_facts  {
+    
+    margin-top: -6em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 10em;
+    padding-bottom: 4em;
+    color: #ffffff;
+}
+
+.fast_facts h1 {
+    font-family: 'Sue Ellen Francisco', cursive;
+    padding-top: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 3em;
+    margin-top: 2em;
+    
+    
+}
+
+.fast_facts ul {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.6em;
+    font-size: 1.1em;
+    
+}
+
+.footer_section{
+    padding-top: 10em;
+    padding-bottom: 1em;
+    background-color: #5b3f28;
+    margin-top: -10em;
+}
+
+.footer  {
+    background-color: #5b3f28;
+    margin-top: -9em;
+    margin-left: 20em;
+    margin-right: 20em;
+    margin-bottom: 0.5em;
+    color: #ffffff;
+}
+
+.footer p{
+    
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 1em;
+    
+    margin-left: 2em;
+    margin-right: 1em;
+    line-height: 1.4em;
+    font-size: 0.6em;
+    color: #ffffff;
+}
+
+
+
+}
+
+
+
+/* Mobile first queries */
+
+/* Larger than mobile */
+@media (min-width: 300px) {
+
+    
+}
+
+/*/ Closing Tag /*/
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+
+
+    
+}
+
+
+}/*/ Closing Tag /*/
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+  
+
+    
+}
+
+
+}/*/ Closing Tag /*/
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+   
+}
+
+    
+
+}/*/ Closing Tag /*/
+
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+    
+ 
+
+    
+}
